@@ -159,7 +159,7 @@ Implementation of the disassembling and execution code of the simulator was not 
 
 ## 5. Extra features
 
-- The choice of printing diretly the output or previwing the instructions with the output.
-- Detecting error when there is inifite calls.
+- The choice of printing directly the output or previewing the instructions with the output.
+- Detecting error when there is infinite calls.
   
  
